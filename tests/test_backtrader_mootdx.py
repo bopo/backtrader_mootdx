@@ -5,9 +5,6 @@
 import pytest
 
 
-from backtrader_mootdx import backtrader_mootdx
-
-
 @pytest.fixture
 def response():
     """Sample pytest fixture.
